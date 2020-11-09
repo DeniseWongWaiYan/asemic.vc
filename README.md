@@ -10,5 +10,5 @@ What + why is this?
 ￼
 
 Collection:
-* [Cards](../docs/cards.md)
+* [Cards](/docs/cards.md)
 
